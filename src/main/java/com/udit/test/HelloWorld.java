@@ -6,6 +6,8 @@ public class HelloWorld {
         printHello();
         printHelloWorld();
         printHelloWorld1();
+
+        new DropDown().print();
     }
 
     private static void printHello() {
@@ -19,4 +21,5 @@ public class HelloWorld {
     private static void printHelloWorld1() {
         System.out.println("This is Hello World 100");
     }
+
 }
