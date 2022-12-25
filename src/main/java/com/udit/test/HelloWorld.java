@@ -17,6 +17,6 @@ public class HelloWorld {
     }
 
     private static void printHelloWorld1() {
-        System.out.println("This is Hello World 1");
+        System.out.println("This is Hello World 100");
     }
 }
